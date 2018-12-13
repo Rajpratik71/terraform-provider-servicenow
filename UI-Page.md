@@ -1,3 +1,5 @@
+`servicenow_ui_page`
+
 # Arguments
 
 * `name` - (Required) The name of the page in ServiceNow.
