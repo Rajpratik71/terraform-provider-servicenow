@@ -1,6 +1,8 @@
+## Name
+
 `servicenow_ui_page`
 
-# Arguments
+## Arguments
 
 * `name` - (Required) The name of the page in ServiceNow.
 * `client_script` - (Required) The Javascript script that will be added to the page client-side.
@@ -9,5 +11,5 @@
 * `description` - (Optional)
 * `direct` - (Optional) Default: `false`
 
-# Other attributes
+## Other attributes
 * `id` - The unique identifier in the ServiceNow instance.
