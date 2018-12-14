@@ -10,6 +10,7 @@
 * `html` - (Required) The HTML template of the page.
 * `description` - (Optional)
 * `direct` - (Optional) Default: `false`
+* `category` - (Optional) The category of this page. Default: `general`
 
 ## Other attributes
 * `id` - The unique identifier in the ServiceNow instance.
