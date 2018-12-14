@@ -9,7 +9,7 @@
 * `processing_script` - (Required) The Javascript script that will run server-side when the page is loaded.
 * `html` - (Required) The HTML template of the page.
 * `description` - (Optional)
-* `direct` - (Optional) Default: `false`
+* `direct` - (Optional) Whether or not to omit standard HTML header and Javascript. Default: `false`
 * `category` - (Optional) The category of this page. Default: `general`
 
 ## Other attributes
