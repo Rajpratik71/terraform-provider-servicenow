@@ -14,3 +14,4 @@
 
 ## Other attributes
 * `id` - The unique identifier in the ServiceNow instance.
+* `endpoint` - Relative URL where the page can be accessed.
