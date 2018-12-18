@@ -2,6 +2,8 @@
 
 `servicenow_application_module`
 
+An application Module is basically a link in the application navigator.
+
 ## Arguments
 
 * `title` - (Required) Display name of the module in the application navigator.
