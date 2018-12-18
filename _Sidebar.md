@@ -4,7 +4,7 @@
 
 ### Resources
 
-* [css_include](r_css_include)
+* [css_include](resource%20%3Acss_include)
 * [[css_include_relation]]
 * [[js_include]]
 * [[js_include_relation]]
