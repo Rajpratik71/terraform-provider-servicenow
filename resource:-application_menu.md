@@ -2,6 +2,8 @@
 
 `servicenow_application_menu`
 
+An application Menu is a section in the application navigator which includes a group of application modules.
+
 ## Arguments
 
 * `title` - (Required) Name appearing in the menu (translated).
