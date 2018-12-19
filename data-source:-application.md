@@ -9,5 +9,5 @@
 ## Other attributes
 
 * `id` - The unique identifier in the ServiceNow instance.
+* `version` - Current version of the application.
 * `scope` - The unique scope of the application. Normally in the format x_[companyCode]_[shortAppId].
-* `version` - Current version of the application
