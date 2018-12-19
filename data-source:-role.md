@@ -9,6 +9,7 @@ Retrieves a Role using it's name in ServiceNow.
 * `name` - (Required) The complete name of the role, including the suffix and the application name in prefix.
 
 ## Other attributes
+
 * `id` - The unique identifier in the ServiceNow instance.
 * `suffix` - The unique name of the role in the application.
 * `description` - A description for the role.
