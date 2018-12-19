@@ -4,6 +4,7 @@
 
 ### Resources
 
+* [application](resource%3A%20application)
 * [application_menu](resource%3A%20application_menu)
 * [application_module](resource%3A%20application_module)
 * [css_include](resource%3A%20css_include)
