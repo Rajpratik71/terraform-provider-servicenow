@@ -10,6 +10,7 @@
 * `client_callable` - (Optional) Whether or not this script can be called from the client-side or only server-side. Default: `false`.
 * `active` - (Optional) Whether or not this Script Include is enabled. Default: `true`.
 * `access` - (Optional) Whether this Script can be accessed from only this application scope or all application scopes. Values can be `package_private` or `public`. Default: `package_private`.
+* `protection_policy` - (Optional) Determines the resource is protected when downloaded or installed. Can be empty (`""`) for no protection, `read` for read-only protection or `protected`. Default: `read`.
 
 ## Other attributes
 * `id` - The unique identifier in the ServiceNow instance.
