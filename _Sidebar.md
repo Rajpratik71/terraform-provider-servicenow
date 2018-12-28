@@ -9,6 +9,7 @@
 * [application_module](resource%3A%20application_module)
 * [css_include](resource%3A%20css_include)
 * [css_include_relation](resource%3A%20css_include_relation)
+* [db_table](resource%3A%20db_table)
 * [js_include](resource%3A%20js_include)
 * [js_include_relation](resource%3A%20js_include_relation)
 * [role](resource%3A%20role)
@@ -22,4 +23,5 @@
 ### Data Sources
 
 * [application](data%20source%3A%20application)
+* [db_table](data%20source%3A%20db_table)
 * [role](data%20source%3A%20role)
