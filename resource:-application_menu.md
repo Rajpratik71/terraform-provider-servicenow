@@ -14,6 +14,7 @@ An application Menu is a section in the application navigator which includes a g
 * `roles` - (Optional) Comma-separated list of Roles (names) that can view this application.
 * `category` - (Optional) Specifies the menu category ID, which defines the navigation menu style. The default value is Custom Applications when empty.
 * `active` - (Optional) Whether or not this application is in use.
+* `protection_policy` - (Optional) Determines the resource is protected when downloaded or installed. Can be empty (`""`) for no protection, `read` for read-only protection or `protected`. Default: `read`.
 
 ## Other attributes
 * `id` - The unique identifier in the ServiceNow instance.
