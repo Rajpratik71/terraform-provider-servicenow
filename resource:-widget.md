@@ -19,6 +19,7 @@
 * `controller_as` - (Optional) The variable name of the Angular controller in the scripts. Default: `c`.
 * `demo_data` - (Optional) 
 * `data_table` - (Optional)
+* `protection_policy` - (Optional) Determines the resource is protected when downloaded or installed. Can be empty (`""`) for no protection, `read` for read-only protection or `protected`. Default: `read`.
 
 ## Other attributes
 * `id` - The unique identifier in the ServiceNow instance.
