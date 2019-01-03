@@ -18,6 +18,7 @@ An application Module is basically a link in the application navigator.
 * `window_name` - (Optional) The name of the browser window when clicking on a link. For example `_blank` can create a new tab.
 * `table_name` - (Optional) The full name of the table where this module will redirect when the link type is `LIST`.
 * `protection_policy` - (Optional) Determines the resource is protected when downloaded or installed. Can be empty (`""`) for no protection, `read` for read-only protection or `protected`. Default: `read`.
+* `scope`- (Optional) Application ID that contains this resource. Changes forces a new resource. Default: `global`.
 
 ## Other attributes
 * `id` - The unique identifier in the ServiceNow instance.
