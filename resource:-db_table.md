@@ -15,6 +15,7 @@
 * `configuration_access` - (Optional) Used when access is set to `public`. Allow design time configuration of this table from other application scopes. Default: `false`.
 * `extendable` - (Optional) Allow other tables to extend this table. Default: `false`.
 * `live_feed` - (Optional) Flag to determine if live feed should be enabled for this table. Default: `false`.
+* `scope`- (Optional) Application ID that contains this resource. Changes forces a new resource. Default: `global`.
 
 ## Other attributes
 * `id` - The unique identifier in the ServiceNow instance.
