@@ -19,3 +19,4 @@
 * `configuration_access` - Allow design time configuration of this table from other application scopes.
 * `extendable` - Allow other tables to extend this table.
 * `live_feed` - Flag to determine if live feed should be enabled for this table.
+* `scope`- Application ID that contains this resource.
