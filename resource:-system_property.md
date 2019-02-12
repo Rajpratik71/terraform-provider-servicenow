@@ -12,6 +12,7 @@
 * `description` - (Optional) Short description of the property that will be displayed above it in the UI.
 * `write_roles` - (Optional) Comma-separated list of security roles required to modify this property.
 * `read_roles` - (Optional) Comma-separated list of security roles required to read this property.
+* `scope`- (Optional) Application ID that contains this resource. Changes forces a new resource. Default: `global`.
 
 ## Other attributes
 * `id` - The unique identifier in the ServiceNow instance.
