@@ -25,6 +25,7 @@
 * [system_property_relation](resource%3A%20system_property_relation)
 * [ui_macro](resource%3A%20ui_macro)
 * [ui_page](resource%3A%20ui_page)
+* [ui_script](resource%3A%20ui_script)
 * [widget](resource%3A%20widget)
 * [widget_dependency](resource%3A%20widget_dependency)
 * [widget_dependency_relation](resource%3A%20widget_dependency_relation)
